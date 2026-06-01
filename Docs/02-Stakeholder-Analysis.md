@@ -1,4 +1,3 @@
-d="52481"}
 # Stakeholder Analysis
 
 ## Business Context
